@@ -226,14 +226,16 @@ Before running the projects, make sure you have:
 
 ## Steps
 
-### 1. Clone the repository
+ 1. Clone the repository
 
-```bash
-git clone https://github.com/keerthipriya7733-droid/CODSOFT.git
-# Repository Structure
+    git clone https://github.com/keerthipriya7733-droid/CODSOFT.git
+
+2. Open the required project folder
+
 Example:
 
 Task5_StudentManagementSystem
+
 3. Compile the Java file
 javac Main.java
 4. Run the program
@@ -274,3 +276,4 @@ Keerthi Priya
 GitHub:
 
 https://github.com/keerthipriya7733-droid
+
